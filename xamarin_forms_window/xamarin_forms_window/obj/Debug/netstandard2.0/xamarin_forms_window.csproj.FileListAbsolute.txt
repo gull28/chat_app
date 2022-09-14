@@ -1,0 +1,15 @@
+C:\Users\Krisjanis_NB\source\repos\xamarin_forms_window\xamarin_forms_window\xamarin_forms_window\bin\Debug\netstandard2.0\xamarin_forms_window.deps.json
+C:\Users\Krisjanis_NB\source\repos\xamarin_forms_window\xamarin_forms_window\xamarin_forms_window\bin\Debug\netstandard2.0\xamarin_forms_window.dll
+C:\Users\Krisjanis_NB\source\repos\xamarin_forms_window\xamarin_forms_window\xamarin_forms_window\bin\Debug\netstandard2.0\xamarin_forms_window.pdb
+C:\Users\Krisjanis_NB\source\repos\xamarin_forms_window\xamarin_forms_window\xamarin_forms_window\obj\Debug\netstandard2.0\xamarin_forms_window.csproj.AssemblyReference.cache
+C:\Users\Krisjanis_NB\source\repos\xamarin_forms_window\xamarin_forms_window\xamarin_forms_window\obj\Debug\netstandard2.0\xamarin_forms_window.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krisjanis_NB\source\repos\xamarin_forms_window\xamarin_forms_window\xamarin_forms_window\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Krisjanis_NB\source\repos\xamarin_forms_window\xamarin_forms_window\xamarin_forms_window\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Krisjanis_NB\source\repos\xamarin_forms_window\xamarin_forms_window\xamarin_forms_window\obj\Debug\netstandard2.0\xamarin_forms_window.AssemblyInfoInputs.cache
+C:\Users\Krisjanis_NB\source\repos\xamarin_forms_window\xamarin_forms_window\xamarin_forms_window\obj\Debug\netstandard2.0\xamarin_forms_window.AssemblyInfo.cs
+C:\Users\Krisjanis_NB\source\repos\xamarin_forms_window\xamarin_forms_window\xamarin_forms_window\obj\Debug\netstandard2.0\xamarin_forms_window.csproj.CoreCompileInputs.cache
+C:\Users\Krisjanis_NB\source\repos\xamarin_forms_window\xamarin_forms_window\xamarin_forms_window\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Krisjanis_NB\source\repos\xamarin_forms_window\xamarin_forms_window\xamarin_forms_window\obj\Debug\netstandard2.0\xamarin_forms_window.dll
+C:\Users\Krisjanis_NB\source\repos\xamarin_forms_window\xamarin_forms_window\xamarin_forms_window\obj\Debug\netstandard2.0\refint\xamarin_forms_window.dll
+C:\Users\Krisjanis_NB\source\repos\xamarin_forms_window\xamarin_forms_window\xamarin_forms_window\obj\Debug\netstandard2.0\xamarin_forms_window.pdb
+C:\Users\Krisjanis_NB\source\repos\xamarin_forms_window\xamarin_forms_window\xamarin_forms_window\obj\Debug\netstandard2.0\ref\xamarin_forms_window.dll

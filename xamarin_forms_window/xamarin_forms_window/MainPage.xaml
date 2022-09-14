@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xamarin_forms_window.MainPage">
+
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <StackLayout>
+                <Label x:Name="sveiki" Text="Sveiki, pasaule!" HorizontalTextAlignment="Center"  FontSize="36"/>
+                <Label Text="Mana aplikacija"  FontSize="Title"/>
+                <Label Text="Si ir mana otra lol aplikacija" FontSize="16"/>
+            </StackLayout>
+            
+        </Grid>
+        <Grid Grid.Row="1">
+            <Label Text="" x:Name="izmaina"></Label>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"></RowDefinition>
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="4*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <BoxView />
+            <Entry x:Name ="ievade_teksts" Placeholder="Sveiki" Grid.Column="0"></Entry>
+
+            <Button x:Name="send_button" Text="ata" Grid.Column="1" Clicked="Send_button_Clicked"></Button>
+        </Grid>
+        
+    </Grid>
+    
+    
+</ContentPage>
